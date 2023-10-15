@@ -8,7 +8,7 @@ Inspired by this [video](https://www.youtube.com/watch?v=q8q3OFFfY6c&t=994s). Th
 
 - [Description](#description)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Execution](#execution)
 
 ## Description
 
@@ -22,7 +22,7 @@ Before you get started, ensure you have the following prerequisites in place:
 
 2. **AWS Account**: Configure an AWS account and create an S3 bucket for storing the processed data.
 
-## Installation
+## Execution
 
 1. **Create Python Script to Extract YouTube Comments Data:** [YouTube API Docs](https://developers.google.com/youtube/v3/docs)
 
